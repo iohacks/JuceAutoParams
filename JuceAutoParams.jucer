@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="Lg18E0" name="JuceAutoParams" projectType="audioplug" jucerVersion="5.4.4"
-              pluginFormats="buildAAX,buildAU,buildVST3" bundleIdentifier="io.iohacks.juce-auto-params">
+              pluginFormats="buildAU,buildVST3" bundleIdentifier="io.iohacks.juce-auto-params">
   <MAINGROUP id="olYi4Q" name="JuceAutoParams">
     <GROUP id="{3F413084-A841-00F5-E14A-5D544E427C5B}" name="Source">
       <FILE id="a8g9Fo" name="PluginProcessor.cpp" compile="1" resource="0"
